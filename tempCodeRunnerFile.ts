@@ -1,0 +1,1 @@
+ult.deletedCount > 0) {
